@@ -1,6 +1,6 @@
 {
   "name": "mochawesome-zc",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A Gorgeous HTML/CSS Reporter for Mocha.js",
   "scripts": {
     "test": "gulp build"
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yaniswang/mochawesome"
+    "url": "https://github.com/GSangQin/mochawesome-zc.git"
   },
   "keywords": [
     "mocha",
